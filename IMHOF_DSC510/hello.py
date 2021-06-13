@@ -12,4 +12,4 @@
 # then, the user is prompted for their name and a short greeting is then display to the console
 print('Hello, world!\n')
 name = input('What is your name, stranger?\n')
-print(f"Well, top of the mornin' ta ya, {name}!")
+print(f"Well, top of the mornin' to ya, {name}!")
